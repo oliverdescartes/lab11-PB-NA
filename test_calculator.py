@@ -1,6 +1,6 @@
 import unittest
 from calculator import *
-# https://github.com/your-username/lab11-P-NA
+#https://github.com/oliverdescartes/lab11-PB-NA/blob/main/test_calculator.py
 # Partner 1: Priyanshou bhattacharjee
 # Partner 2: Not responsive
 
